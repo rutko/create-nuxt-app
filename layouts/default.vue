@@ -102,9 +102,9 @@ export default {
           to: '/'
         },
         {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire'
+          icon: 'mdi-border-color',
+          title: '投稿',
+          to: '/post'
         }
       ],
       miniVariant: false,
