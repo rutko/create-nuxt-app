@@ -98,7 +98,7 @@ export default {
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: '募集一覧',
           to: '/'
         },
         {
